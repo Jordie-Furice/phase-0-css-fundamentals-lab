@@ -3,3 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  padding: 20px;
+  text-align: center;
+}
+
+section{
+  padding: 20px;
+  text-align: center;
+}
+
+header a {
+  padding: 10px 0 10px 0;
+  background-color: #796464;
+}
+
+figcaption {
+  font-size: 12px;
+  color: #796464;
+}
+
+.text {
+  font-size: 14px;
+  color: #796464;
+  width: 800px;
+  margin: 0 auto;
+}
+
+div {
+  float: left;
+  background-color: #796464;
+  text-align: center;
+  width: 25%;
+}
